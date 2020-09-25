@@ -1,6 +1,8 @@
 ### Hello there 👋 My name is Andreas
 Im a .NET developer student from the west coast of Sweden. 
+
 As of writing this I have basic knowledge of mostly **C#** but also JavaScript(jQuery)/Html/CSS.
+
 My next mission is to learn **React.js** while doing my internship.
 
 <!--
