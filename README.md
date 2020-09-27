@@ -1,9 +1,9 @@
 ### Hello there 👋 My name is Andreas but my friends call me Bruce
 Im a .NET developer student from the west coast of Sweden. 
 
-As of writing this I have basic knowledge of mostly **C#** but also JavaScript(jQuery)/Html/CSS.
+As of writing this I have basic knowledge of mostly **C#** but also JavaScript(jQuery)/Html/CSS and learning more and more every day.
 
-⚡My next mission is to learn **ReactJS** while doing my internship at Plejd.⚡
+⚡My next mission is to learn **ReactJS** while doing my internship.⚡
 
 
 
