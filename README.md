@@ -1,15 +1,12 @@
 ### Hello there 👋 My name is Andreas but my friends call me Bruce
 Im a .NET developer student from the west coast of Sweden. 
 
-I love learning, and as of writing this I have one year of hard work with mostly **C#** together with EF and SQL but also JavaScript(jQuery)/Html/CSS in my backpack.
+I love learning, and as of writing this I have one year of hard work with mostly **C#** but also JavaScript(jQuery)/Html/CSS in my backpack.
 
 ⚡My next mission is to learn **ReactJS** while doing my internship.⚡
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreasbrochs)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasbrochs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 
 <!--
