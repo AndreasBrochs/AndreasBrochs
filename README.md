@@ -7,6 +7,8 @@ I love learning, and as of writing this I have one year of hard work with mostly
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreasbrochs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasbrochs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
