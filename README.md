@@ -5,7 +5,7 @@ I love learning, and as of writing this I have one year of hard work with mostly
 
 ⚡My next mission is to learn **ReactJS** while doing my internship.⚡
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreasbrochs?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreasbrochs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
