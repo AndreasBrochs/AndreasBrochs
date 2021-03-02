@@ -1,4 +1,7 @@
 ### Hello there 👋 My name is Andreas but my friends call me Bruce
+
+![](https://page-views.glitch.me/badge?page_id=AndreasBrochs)
+
 Im a .NET developer student from the west coast of Sweden. 
 
 I love learning, and as of writing this I have one year of hard work with mostly **C#** in my backpack.
