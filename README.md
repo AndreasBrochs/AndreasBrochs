@@ -1,6 +1,6 @@
 ### Hello there 👋 My name is Andreas but my friends call me Bruce
 
-![](https://page-views.glitch.me/badge?page_id=AndreasBrochs)
+![](https://page-views.glitch.me/badge?page_id=AndreasBrochs.AndreasBrochs)
 
 Im a .NET developer student from the west coast of Sweden. 
 
