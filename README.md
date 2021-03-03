@@ -2,6 +2,7 @@
 
 
 I'm a Full Stack developer student from the west coast of Sweden doing my last few months in school before graduating this spring.
+⚡Currently I'm digging deeper into **GraphQL** and **ReactJS** while doing my internship.⚡
 
  📫 How to reach me: ... <br/>
  <a href="https://www.linkedin.com/in/andreas-brochs-367653153/">
@@ -9,7 +10,7 @@ I'm a Full Stack developer student from the west coast of Sweden doing my last f
 </a>
 
 
-⚡My current mission is to learn **GraphQL** and **ReactJS** while doing my internship.⚡
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=react&username=andreasbrochs)](https://github.com/anuraghazra/github-readme-stats)
 
