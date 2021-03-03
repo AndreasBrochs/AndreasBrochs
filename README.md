@@ -3,7 +3,7 @@
 
 I'm a Full Stack developer student from the west coast of Sweden doing my last few months in school before graduating this spring.
 
- 📫 How to reach me: ...
+ 📫 How to reach me: ... <br/>
  <a href="https://www.linkedin.com/in/andreas-brochs-367653153/">
   <img align="left" alt="Andreas LinkedIN" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg" />
 </a>
