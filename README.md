@@ -1,6 +1,6 @@
 ### Hello there 👋 My name is Andreas but my friends call me Bruce
 
-<a href="www.linkedin.com/in/andreas-brochs"> <img align="left" alt="Andreas Brochs LinkedIn" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg"/>
+<a href="www.linkedin.com/in/andreas-brochs/"> <img align="left" alt="Andreas Brochs LinkedIn" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg"/>
 </a>
 
 <br/>
