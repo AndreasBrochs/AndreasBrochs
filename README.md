@@ -3,9 +3,7 @@
 <a href="www.linkedin.com/in/andreas-brochs-367653153"> <img align="left" alt="Andreas Brochs LinkedIn" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg"/>
 </a>
 
-
-
-
+<br/>
 Im a .NET developer student from the west coast of Sweden. 
 
 I love learning, and as of writing this I have one year of hard work with mostly **C#** in my backpack.
