@@ -9,7 +9,6 @@ I'm a Full Stack developer student from the west coast of Sweden doing my last f
   <img alt="Andreas LinkedIN" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg" />
 </a>
 
-![image](https://user-images.githubusercontent.com/55091646/110920198-64997180-831d-11eb-9537-d4601f61b021.png)
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
 
