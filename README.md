@@ -4,7 +4,7 @@
 I'm a Full Stack developer student from the west coast of Sweden doing my last few months in school before graduating this spring.
 ⚡Currently I'm digging deeper into **GraphQL** and **ReactJS** while doing my internship.⚡
 
- 📫 How to connect with me me: ... <br/>
+ 📫 How to connect with me: ... <br/>
  <a href="https://www.linkedin.com/in/andreas-brochs-367653153/">
   <img alt="Andreas LinkedIN" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg" />
 </a>
