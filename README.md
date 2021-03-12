@@ -8,7 +8,6 @@ I'm a Full Stack developer student from the west coast of Sweden doing my last f
  <a href="https://www.linkedin.com/in/andreas-brochs-367653153/">
   <img alt="Andreas LinkedIN" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg" />
 </a>
-
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
 
