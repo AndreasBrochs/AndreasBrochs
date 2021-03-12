@@ -9,7 +9,7 @@ I'm a Full Stack developer student from the west coast of Sweden doing my last f
   <img alt="Andreas LinkedIN" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg" />
 </a>
 
-<i class="devicon-git-plain"></i>
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=react&username=andreasbrochs)](https://github.com/anuraghazra/github-readme-stats)
