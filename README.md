@@ -1,10 +1,8 @@
 ### Hello there 👋 My name is Andreas but my friends call me Bruce
 
 
-I'm a Full Stack developer student from the west coast of Sweden doing my last few weeks in school before graduating this spring.
-
-- 🌱 Currently I'm digging deeper into **GraphQL**, **ReactJS** and **TypeScript**
-- ⚡ Fun fact: I love music and sometimes I play the guitar
+I'm a Full Stack developer from the west coast of Sweden.
+-Most of my commits now are in private repos for work.
 
 
  📫 How to connect with me: ... <br/>
