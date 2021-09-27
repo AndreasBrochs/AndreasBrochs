@@ -2,6 +2,7 @@
 
 
 I'm a Full Stack developer from the west coast of Sweden.
+
 -Most of my commits now are in private repos for work.
 
 
