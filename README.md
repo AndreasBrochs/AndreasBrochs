@@ -5,12 +5,13 @@ I'm a Full Stack developer from the west coast of Sweden.
 
 -Most of my commits now are in private repos for work.
 
-
- 📫 How to connect with me: ... <br/>
+- ⚡ Fun fact: Im 50% Swedish and 50% Norwegian
+<!--
+📫 How to connect with me: ... <br/>
  <a href="https://www.linkedin.com/in/andreas-brochs-367653153/">
   <img alt="Andreas LinkedIN" width="22px" src="https://github.com/AndreasBrochs/AndreasBrochs/blob/abc7b904a4f7189f0e422ed73617852346dad9ea/assets/linkedin.svg" />
 </a>
-<!--
+
 **Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
